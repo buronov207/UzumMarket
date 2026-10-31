@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+.container {
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.sliderrr {
+    position: relative;
+}
+
+.slider {
+    position: absolute;
+    left: 16px;
+    top: 186.51px;
+}
+
+.slider1 {
+    position: absolute;
+    left: 1184px;
+    top: 186.51px;
+}
+
+.aksiya {
+    position: relative;
+}
+
+.p-text {
+    position: absolute;
+    z-index: 50;
+    top: 286.32px;
+}
+
+.button_png {
+    position: absolute;
+    z-index: 55;
+    top: 10px;
+    left: 199px;
+}
